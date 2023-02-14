@@ -1,0 +1,6 @@
+com\yassine\vrproject\service\impl\StudentServiceImpl.class
+com\yassine\vrproject\repository\StudentRepository.class
+com\yassine\vrproject\service\StudentService.class
+com\yassine\vrproject\controller\StudentController.class
+com\yassine\vrproject\entity\Student.class
+com\yassine\vrproject\VrprojectApplication.class
